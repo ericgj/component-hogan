@@ -4,7 +4,7 @@
 A plugin to transpile mustache templates for component builder, using Hogan.
 
 Note the structure of this plugin is largely cargo-culted from 
-[jade][segmentio/component-jade].
+[segmentio/component-jade][jade].
 
 ## Install
 
