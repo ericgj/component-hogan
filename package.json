@@ -1,0 +1,24 @@
+{
+  "name": "component-hogan",
+  "version": "0.0.1",
+  "description": "Hogan template transpiler plugin for component/builder.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericgj/component-hogan"
+  },
+  "keywords": [
+    "mustache",
+    "template",
+    "component"
+  ],
+  "author": "Eric Gjertsen",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "~0.7.2",
+    "hogan.js": "~2.0.0"
+  }
+}
